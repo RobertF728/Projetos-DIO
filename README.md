@@ -1,18 +1,20 @@
-# O mundo através visão da IA
+# IA: Uma Nova Perspectiva do Mundo
 
 ## 📒 Descrição
-Olá pessoal trago para vocês um E-book sobre como a IA interpreta o mundo, ou seja como ela o vê
+Olá pessoal trago para vocês um E-book sobre como a IA interpreta o mundo, ou seja como ela o vê.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa ChatGPT para roteirização;
+- IA Generativa https://chatgpt.com para roteirização;
 
-- IA Generativa Copilot para gerar as imagens;
+- IA Generativa https://copilot.microsoft.com para gerar as imagens;
+
+- IA Generativa https://gamma.app para a criação dos templates;
 
 ## 🧐 Processo de Criação
-Utilizei o ChatGPT para gerar os texto e descritivos das imagens, ja o Copilot utizei para gerar imagens com base nos prompts digitados sobre o mundo
+Utilizei o Copilot para geração de imagens e sua interpretação delas, O Chat GPT foi utilizado para geração de opiniões sobre algumas questões da sociedade, ja o Gamma foi fundamental na criação de templates.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://gamma.app/docs/IA-Uma-Nova-Perspectiva-do-Mundo-l2id9c69nidhsyf
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 💭 Reflexão
+No mundo atual, contamos com inúmeras possibilidades de realizar tarefas por meio de ferramentas de IA generativa. A otimização de processos impulsionada por essas tecnologias beneficia diretamente o desenvolvimento da sociedade. Com isso, estamos cada vez mais próximos de alcançar o futuro que as gerações passadas apenas imaginavam.
