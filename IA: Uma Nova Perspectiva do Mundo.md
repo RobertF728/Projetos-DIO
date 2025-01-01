@@ -6,7 +6,7 @@ Olá pessoal trago para vocês um E-book sobre como a IA interpreta o mundo, ou 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa https://chatgpt.com  para roteirização;
 
-- IA Generativa https://copilot.microsoft.com para gerar as imagens;
+- IA Generativa https://copilot.microsoft.com  para gerar as imagens;
 
 - IA Generativa https://gamma.app para a criação dos templates;
 
