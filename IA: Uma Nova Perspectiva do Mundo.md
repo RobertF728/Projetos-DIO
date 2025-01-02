@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/17804353-be81-4ef0-b211-472ad7ffc1be" alt="Ebook - IA" width="300" />
+</p>
+
 # IA: Uma Nova Perspectiva do Mundo
 
 ## 📒 Descrição
@@ -18,3 +22,5 @@ https://gamma.app/docs/IA-Uma-Nova-Perspectiva-do-Mundo-l2id9c69nidhsyf
 
 ## 💭 Reflexão
 No mundo atual, contamos com inúmeras possibilidades de realizar tarefas por meio de ferramentas de IA generativa. A otimização de processos impulsionada por essas tecnologias beneficia diretamente o desenvolvimento da sociedade. Com isso, estamos cada vez mais próximos de alcançar o futuro que as gerações passadas apenas imaginavam.
+
+![Ebook - IA](https://github.com/user-attachments/assets/17804353-be81-4ef0-b211-472ad7ffc1be)
