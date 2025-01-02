@@ -2,11 +2,11 @@
 
 Essa solução tem como objetivo compartilhar a facilidade para criar Planilhas inteligêntes com o auxílio de Inteligência Artificial
 
-## 💻 Tecnologias utilizadas no projeto
+## 🤖 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
 
-## ✨ Como foi feito ?
+## 🤔 Como foi feito ?
 
 - Os scripts e a simulação do banco de dados foi gerado pelo ChatGpt.
 
