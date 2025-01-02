@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/17804353-be81-4ef0-b211-472ad7ffc1be" alt="Ebook - IA" width="300" />
+</p>
+
 # Entre Ações e Pensamentos “A IA  das Três Perspectivas”
 
 ## 📒 Descrição
