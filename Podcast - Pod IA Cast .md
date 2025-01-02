@@ -1,3 +1,10 @@
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c06789d2-c087-4612-b04f-aea6e572d422" alt="Pod IA Cast - Apresentação Capa" width="300" />
+</p>
+
+
 # Projeto Podcast Gerado por I.A.s
 
 ## 🎙️Pod IA Cast 
